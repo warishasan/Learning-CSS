@@ -29,6 +29,8 @@ Welcome to the CSS Text and Box Styling Challenge! In this exercise, you'll have
 </html>
 ```
 
+<video src="./task.mp4" autoplay autoplay='true' muted style=""></video>
+
 In your `styles.css` file, take on the following challenges that encompass various text and box styling concepts:
 
 a) Set the background color of the product card to a light gray.
