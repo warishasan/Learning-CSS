@@ -1,4 +1,4 @@
-**Comprehensive CSS Selector Challenge: Colorful Styles**
+# Comprehensive CSS Selector Challenge: Colorful Styles
 
 Welcome to the CSS Selector Challenge! This exercise will help you grasp the different selectors, understand cascading, and enhance your styling skills. Below is the provided HTML structure:
 
@@ -32,6 +32,9 @@ Welcome to the CSS Selector Challenge! This exercise will help you grasp the dif
   </body>
 </html>
 ```
+
+Here is what you have to make:
+![screenshot of end result of this task](./task2.png)
 
 In your `styles.css` file, tackle the following challenges that encompass various selectors and cascading rules:
 

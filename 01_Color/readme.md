@@ -17,6 +17,7 @@ Get ready to dive into the vibrant world of CSS colors! This practice question w
 </html>
 ```
 
+Here is what you have to make:
 ![screenshot of end result of this task](./task-color.png)
 
 In the `styles.css` file linked above, complete the following tasks:

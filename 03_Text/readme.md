@@ -26,6 +26,9 @@ Welcome to the CSS Text Styling Challenge! This exercise will test your understa
 </html>
 ```
 
+Here is what you have to make:
+![screenshot of end result of this task](./task3.png)
+
 In your `styles.css` file, take on the following challenges that test your knowledge of text styling:
 
 a) Apply a font size of 20px and a font family of "Arial, sans-serif" to all elements.
