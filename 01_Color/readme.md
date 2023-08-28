@@ -1,4 +1,4 @@
-**Comprehensive CSS Color Practice**
+# Comprehensive CSS Color Practice
 
 Get ready to dive into the vibrant world of CSS colors! This practice question will test your knowledge of different color concepts. Below is the given HTML structure:
 
@@ -16,6 +16,8 @@ Get ready to dive into the vibrant world of CSS colors! This practice question w
   </body>
 </html>
 ```
+
+![screenshot of end result of this task](./task-color.png)
 
 In the `styles.css` file linked above, complete the following tasks:
 
