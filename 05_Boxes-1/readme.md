@@ -5,23 +5,23 @@ Welcome to the CSS Text, Box, and Navbar Styling Challenge! In this exercise, yo
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <header>
-    <nav class="navbar">
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-    <h1 class="main-title">Welcome to Our Website</h1>
-    <p class="sub-title">Discover the amazing world of web design!</p>
-  </header>
-</body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <h1 class="main-title">Welcome to Our Website</h1>
+      <p class="sub-title">Discover the amazing world of web design!</p>
+    </header>
+  </body>
 </html>
 ```
 

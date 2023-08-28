@@ -5,20 +5,27 @@ Welcome to the CSS Text and Box Styling Challenge! In this exercise, you'll have
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <div class="product-card">
-    <img src="product-image.jpg" alt="Product Image">
-    <h2 class="product-title">Premium Widget</h2>
-    <p class="product-description">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-    </p>
-    <span class="product-price">$29.99</span>
-  </div>
-</body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <div class="product-card">
+      <img src="product-image.jpg" alt="Product Image" />
+      <h2 class="product-title">Premium Widget</h2>
+      <p class="product-description">
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        with desktop publishing software like Aldus PageMaker including versions
+        of Lorem Ipsum.
+      </p>
+      <span class="product-price">$29.99</span>
+    </div>
+  </body>
 </html>
 ```
 
@@ -49,6 +56,5 @@ k) Adjust the visibility property to hide the price initially and display it on 
 l) Incorporate a border image to add a decorative element around the card.
 
 m) Utilize min-height to ensure the product card has a minimum height even when the content is small.
-
 
 Your `styles.css` should reflect your creativity in applying these styling concepts to create an appealing product card design. Imagine you're designing a webpage that showcases various products, and this product card will catch users' attention. Experiment with these properties to achieve an appealing and functional design.

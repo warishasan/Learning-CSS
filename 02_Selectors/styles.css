@@ -1,42 +1,41 @@
 /* Universal Selector */
 * {
-    color: gray;
-    background-color: lightgray;
-  }
-  
-  /* Element Selector */
-  h1 {
-    color: darkblue;
-    background-color: lightcyan;
-  }
-  
-  /* ID Selector */
-  #main-title {
-    color: darkred;
-    background-color: mistyrose;
-  }
-  
-  /* Class Selector */
-  .nav-link {
-    color: forestgreen;
-    background-color: lightyellow;
-  }
-  
-  /* Descendant Selector */
-  .color-box p {
-    color: saddlebrown;
-    background-color: lemonchiffon;
-  }
-  
-  /* Child Selector */
-  .color-box > p {
-    color: goldenrod;
-    background-color: ivory;
-  }
-  
-  /* Adjacent Sibling Selector */
-  .intro-paragraph + p {
-    color: teal;
-    background-color: lightcyan;
-  }
-  
+  color: gray;
+  background-color: lightgray;
+}
+
+/* Element Selector */
+h1 {
+  color: darkblue;
+  background-color: lightcyan;
+}
+
+/* ID Selector */
+#main-title {
+  color: darkred;
+  background-color: mistyrose;
+}
+
+/* Class Selector */
+.nav-link {
+  color: forestgreen;
+  background-color: lightyellow;
+}
+
+/* Descendant Selector */
+.color-box p {
+  color: saddlebrown;
+  background-color: lemonchiffon;
+}
+
+/* Child Selector */
+.color-box > p {
+  color: goldenrod;
+  background-color: ivory;
+}
+
+/* Adjacent Sibling Selector */
+.intro-paragraph + p {
+  color: teal;
+  background-color: lightcyan;
+}

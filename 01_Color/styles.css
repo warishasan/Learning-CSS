@@ -1,40 +1,39 @@
 /* Foreground Color Property */
 #main-title {
-    color: blue;
-  }
-  
-  /* Background Color Property */
-  #color-box {
-    background-color: yellow;
-  }
-  
-  /* RGB Color Value */
-  .intro-paragraph {
-    color: rgb(255, 99, 71);
-  }
-  
-  /* RGBA Color Value */
-  p:last-child {
-    background-color: rgba(0, 128, 0, 0.3);
-  }
-  
-  /* HSL Color Value */
-  #main-title {
-    background-color: hsl(210, 100%, 50%);
-  }
-  
-  /* HSLA Color Value */
-  #color-box {
-    background-color: hsla(45, 100%, 50%, 0.7);
-  }
-  
-  /* Hex Color Code */
-  .intro-paragraph {
-    color: #8A2BE2;
-  }
-  
-  /* Color Names */
-  #color-box {
-    color: coral;
-  }
-  
+  color: blue;
+}
+
+/* Background Color Property */
+#color-box {
+  background-color: yellow;
+}
+
+/* RGB Color Value */
+.intro-paragraph {
+  color: rgb(255, 99, 71);
+}
+
+/* RGBA Color Value */
+p:last-child {
+  background-color: rgba(0, 128, 0, 0.3);
+}
+
+/* HSL Color Value */
+#main-title {
+  background-color: hsl(210, 100%, 50%);
+}
+
+/* HSLA Color Value */
+#color-box {
+  background-color: hsla(45, 100%, 50%, 0.7);
+}
+
+/* Hex Color Code */
+.intro-paragraph {
+  color: #8a2be2;
+}
+
+/* Color Names */
+#color-box {
+  color: coral;
+}
