@@ -5,34 +5,34 @@ Welcome to the CSS List Styling and Text Manipulation Challenge! In this exercis
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1>Classic Chocolate Chip Cookies</h1>
-    <img src="cookie-image.jpg" alt="Delicious Chocolate Chip Cookies">
-  </header>
-  <section class="recipe-details">
-    <h2>Ingredients</h2>
-    <div class="ingredients">
-      <ul class="unordered-list">
-        <li>1 cup all-purpose flour</li>
-        <li>1/2 cup unsalted butter</li>
-        <li>1 cup chocolate chips</li>
-      </ul>
-    </div>
-    <h2>Preparation</h2>
-    <ol class="ordered-list">
-      <li>Preheat the oven to 350°F.</li>
-      <li>Cream the butter and sugar in a bowl.</li>
-      <li>Add the dry ingredients and chocolate chips.</li>
-      <li>Drop spoonfuls of dough onto a baking sheet.</li>
-      <li>Bake for 10-12 minutes until golden brown.</li>
-      <li>Cool on a wire rack and enjoy!</li>
-    </ol>
-  </section>
-</body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Classic Chocolate Chip Cookies</h1>
+      <img src="cookie-image.jpg" alt="Delicious Chocolate Chip Cookies" />
+    </header>
+    <section class="recipe-details">
+      <h2>Ingredients</h2>
+      <div class="ingredients">
+        <ul class="unordered-list">
+          <li>1 cup all-purpose flour</li>
+          <li>1/2 cup unsalted butter</li>
+          <li>1 cup chocolate chips</li>
+        </ul>
+      </div>
+      <h2>Preparation</h2>
+      <ol class="ordered-list">
+        <li>Preheat the oven to 350°F.</li>
+        <li>Cream the butter and sugar in a bowl.</li>
+        <li>Add the dry ingredients and chocolate chips.</li>
+        <li>Drop spoonfuls of dough onto a baking sheet.</li>
+        <li>Bake for 10-12 minutes until golden brown.</li>
+        <li>Cool on a wire rack and enjoy!</li>
+      </ol>
+    </section>
+  </body>
 </html>
 ```
 

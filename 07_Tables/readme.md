@@ -81,7 +81,6 @@ Welcome to the CSS Table and List Styling Challenge! In this exercise, you'll ap
 
 In your `styles.css` file, take on the following challenges that encompass various table and list styling concepts, as well as text manipulation, font, margin, padding, and more:
 
-
 a) set width of image to 100%.
 
 b) Collapse the table borders.
