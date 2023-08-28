@@ -30,9 +30,7 @@ Welcome to the CSS Text and Box Styling Challenge! In this exercise, you'll have
 ```
 
 Here is what you have to make:
-![video of end result of this task](./task.mp4)
-
-<video src="./task.mp4" autoplay='true' muted ></video>
+![video of end result of this task](./task4.png)
 
 In your `styles.css` file, take on the following challenges that encompass various text and box styling concepts:
 
