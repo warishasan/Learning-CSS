@@ -22,12 +22,7 @@
   #main-title {
     background-color: hsl(210, 100%, 50%);
   }
-  
-  /* HSLA Color Value */
-  #color-box {
-    background-color: hsla(45, 100%, 50%, 0.7);
-  }
-  
+
   /* Hex Color Code */
   .intro-paragraph {
     color: #8A2BE2;

@@ -11,7 +11,7 @@ Get ready to dive into the vibrant world of CSS colors! This practice question w
 <body>
   <h1 id="main-title">CSS Color Challenge</h1>
   <p class="intro-paragraph">Explore the spectrum of colors!</p>
-  <div id="color-box"></div>
+  <div id="color-box">Hello world, how are you?</div>
   <p>Unstyled Paragraph</p>
 </body>
 </html>
@@ -34,13 +34,10 @@ d) Using **RGBA Color Value**:
 e) Using **HSL Color Value**:
    Use an HSL color value of `hsl(210, 100%, 50%)` to paint the background of the "main-title".
 
-f) Using **HSLA Color Value**:
-   For a playful effect, apply an HSLA color value of `hsla(45, 100%, 50%, 0.7)` to the background of the `<div>`.
-
-g) Using **Hex Color Code**:
+f) Using **Hex Color Code**:
    Change the text color of the "intro-paragraph" to the hex color code `#8A2BE2`.
 
-h) Using **Color Names**:
+g) Using **Color Names**:
    Finally, give the text within the "color-box" the color name "coral".
 
 Your `styles.css` should reflect the changes for each task. Be sure to use the appropriate CSS properties and values for each concept.
