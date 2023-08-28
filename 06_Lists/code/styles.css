@@ -1,0 +1,60 @@
+/* Setting a fixed width for cookie image */
+img {
+   width: 900px;
+  }
+
+/* Style unordered list with circle markers and different font */
+.unordered-list {
+    list-style-type: circle;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Apply background image to ordered list */
+  .ordered-list {
+    list-style-image: url('marker-image.png');
+  }
+  
+  /* Position list item markers outside */
+  ul, ol {
+    list-style-position: outside;
+  }
+  
+  /* Increase font size of ingredients' list items */
+  .ingredients li {
+    font-size: 18px;
+  }
+  
+  /* Add margin and padding to header */
+  header {
+    margin: 20px;
+    padding: 10px;
+  }
+  
+  /* Apply background color to odd ordered list items */
+  .ordered-list li:nth-child(odd) {
+    background-color: #b4a183;
+  }
+
+  /* Apply custom font family to header */
+  h1 {
+    font-family: 'Georgia', serif;
+  }
+  
+  /* Adjust line height of ingredients' list items */
+  .ingredients li {
+    line-height: 1.5;
+  }
+  
+  /* Add subtle box shadow to recipe details section */
+  .recipe-details {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+  }
+  
+  /* Align text in ordered list to the right */
+  .ordered-list {
+    text-align: right;
+    width: 500px;
+
+  }
+  
