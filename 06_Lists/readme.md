@@ -36,6 +36,9 @@ Welcome to the CSS List Styling and Text Manipulation Challenge! In this exercis
 </html>
 ```
 
+Here is what you have to make:
+![video of end result of this task](./task6.jpeg)
+
 In your `styles.css` file, take on the following challenges that encompass various list styling concepts, text manipulation, font, margin, padding, and more:
 
 a) Give a fixed width of 900px to cookie image.

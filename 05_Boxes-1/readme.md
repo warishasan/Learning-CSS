@@ -25,6 +25,9 @@ Welcome to the CSS Text, Box, and Navbar Styling Challenge! In this exercise, yo
 </html>
 ```
 
+Here is what you have to make:
+![video of end result of this task](./task5.png)
+
 In your `styles.css` file, take on the following challenges that encompass various text and box styling concepts, without using flex:
 
 a) Apply a background color to the header to create a visual separation.
