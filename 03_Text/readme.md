@@ -5,26 +5,29 @@ Welcome to the CSS Text Styling Challenge! This exercise will test your understa
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1 id="main-title">CSS Challenge: Text Mastery</h1>
-    <p class="intro-paragraph">Explore the art of text styling!</p>
-  </header>
-  <section>
-    <p class="content-paragraph">Dive into the world of content styling.</p>
-    <div class="color-box">
-      <p>Inner Text</p>
-    </div>
-  </section>
-  <footer>
-    <p>&copy; 2023 CSS Text Artistry. All rights reserved.</p>
-  </footer>
-</body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1 id="main-title">CSS Challenge: Text Mastery</h1>
+      <p class="intro-paragraph">Explore the art of text styling!</p>
+    </header>
+    <section>
+      <p class="content-paragraph">Dive into the world of content styling.</p>
+      <div class="color-box">
+        <p>Inner Text</p>
+      </div>
+    </section>
+    <footer>
+      <p>&copy; 2023 CSS Text Artistry. All rights reserved.</p>
+    </footer>
+  </body>
 </html>
 ```
+
+Here is what you have to make:
+![screenshot of end result of this task](./task3.png)
 
 In your `styles.css` file, take on the following challenges that test your knowledge of text styling:
 
